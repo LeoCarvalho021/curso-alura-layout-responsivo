@@ -32,11 +32,17 @@ Curso da Alura para criação de uma página da Web para uma empresa fictícia, 
 
 
 :heavy_check_mark: Como desenvolver uma pagina a partir do FIGMA
+
 :heavy_check_mark: Uso do EMMET 
+
 :heavy_check_mark: Variaveis CSS  
+
 :heavy_check_mark: Desenvolvimento utilizando Componentes
+
 :heavy_check_mark: Utilizaçao do BEM CSS
+
 :heavy_check_mark: Código Semântico e SEO
+
 :heavy_check_mark: Layout Responsivo
 
 ## Layout ou Deploy da Aplicação :dash:
